@@ -92,10 +92,10 @@ Defines the volume calculation for 3D shapes.
 
 
 ## **Author**  
- **Name:** Kashvi Singh 
+ **Name:** Tanmay Joshi
  
- **PRN:** 23070126057 
+ **PRN:** 23070126134
  
- **Batch:** AIML A3
+ **Batch:** AIML B3
 
 --- 
